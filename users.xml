@@ -1,0 +1,12 @@
+<users>
+    <user name="Neko Nekic" phoneNumber="+387622222111">
+        <birthday format="dd--MM--yyyy">
+            01--02--1955
+        </birthday>
+    </user>
+    <user name="X Nekic" phoneNumber="+38762333111">
+        <birthday format="dd??MM??yyyy">
+            10??10??1855
+        </birthday>
+    </user>
+</users>
